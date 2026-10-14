@@ -1,29 +1,40 @@
-# Anguria Studio
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anguria-studio/.github/main/profile/assets/mark.png" width="120" alt="Anguria Studio watermelon logo">
+</p>
 
-Three small, free, open-source utilities for your Mac: Paguro, Obolo, and Scolo.
+<h1 align="center">Anguria Studio</h1>
 
-Each one does one thing and keeps everything on your Mac. No accounts,
-no telemetry, no subscriptions.
+<p align="center">
+  Small, free, open-source apps for Mac.<br>
+  Built in Swift, made for everyday use.
+</p>
 
-## Apps
+<p align="center">
+  <a href="https://anguria.studio">Website</a> &middot;
+  <a href="mailto:hello@anguria.studio">Say hello</a>
+</p>
 
-- **Paguro** — Native workspace for web apps. Messages, mail and everyday
-  web tools in one window. Available now.
-- **Obolo** — Subscription tracker. Not yet released.
-- **Scolo** — Mac cleaner. Remove files safely; tell useful and useless
-  apart. Not yet released.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://anguria.studio/paguro/">
+        <img src="https://raw.githubusercontent.com/anguria-studio/.github/main/profile/assets/paguro-card.png" width="440" alt="Paguro — Give your web apps a home. Every account signed in, side by side, in one native window.">
+      </a>
+      <p align="center">
+        <a href="https://anguria.studio/paguro/">Explore Paguro</a> &middot;
+        <a href="https://github.com/anguria-studio/Paguro">Source code</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://anguria.studio/moppo/">
+        <img src="https://raw.githubusercontent.com/anguria-studio/.github/main/profile/assets/moppo-card.png" width="440" alt="Moppo — A tidy Mac, nothing lost. Finds what’s taking space and checks before anything goes.">
+      </a>
+      <p align="center">
+        <a href="https://anguria.studio/moppo/">Explore Moppo</a> &middot;
+        <a href="https://github.com/anguria-studio/Moppo">Source code</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-## Requirements
-
-Paguro runs on macOS 15 or later, Apple silicon and Intel. Obolo and Scolo
-will need macOS 14 or later.
-
-## Where to go
-
-- Paguro: https://anguria.studio/paguro/
-- Paguro privacy policy: https://anguria.studio/paguro/privacy/
-- Source: https://github.com/anguria-studio/Paguro
-
-## Contact
-
-hello@anguria.studio.
+<p align="center">No subscriptions. No app telemetry. Yours to keep.</p>
