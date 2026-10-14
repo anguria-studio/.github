@@ -10,8 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://anguria.studio">Website</a> &middot;
-  <a href="mailto:hello@anguria.studio">Say hello</a>
+  <a href="https://anguria.studio">Website</a>
 </p>
 
 <table>
