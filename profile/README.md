@@ -18,7 +18,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://anguria.studio/paguro/">
-        <img src="https://raw.githubusercontent.com/anguria-studio/.github/main/profile/assets/paguro-card.png" width="440" alt="Paguro — Give your web apps a home. Every account signed in, side by side, in one native window.">
+        <img src="https://raw.githubusercontent.com/anguria-studio/.github/main/profile/assets/paguro-card.png?v=2" width="440" alt="Paguro — Your web apps, together in one window.">
       </a>
       <p align="center">
         <a href="https://anguria.studio/paguro/">Explore Paguro</a> &middot;
@@ -27,7 +27,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://anguria.studio/moppo/">
-        <img src="https://raw.githubusercontent.com/anguria-studio/.github/main/profile/assets/moppo-card.png" width="440" alt="Moppo — A tidy Mac, nothing lost. Finds what’s taking space and checks before anything goes.">
+        <img src="https://raw.githubusercontent.com/anguria-studio/.github/main/profile/assets/moppo-card.png?v=2" width="440" alt="Moppo — A tidy Mac. You choose what goes.">
       </a>
       <p align="center">
         <a href="https://anguria.studio/moppo/">Explore Moppo</a> &middot;
